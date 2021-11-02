@@ -1,0 +1,14 @@
+body {
+  <link rel="stylesheet" href="style.css">
+    font-family: sans-serif;
+}
+header{background-color: lightblue;}
+h1{text-align:center ;color:blue ;}
+footer p{background-color:green ;}
+main nav {margin: 10px;padding:10px ;border: 2px solid gray ;width: 320px;}
+.g{background-color:lightgreen ;}
+.m{color: blue ;}
+.u{color: blue;}
+.f{margin: 20px;padding: 10px;border:2px solid gray;}
+.h{color: blue;}
+.j{color: blue;}
